@@ -5,7 +5,7 @@
 -📚 Estou me aprofundando em Front-End<br/>
 
 <div align="left">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ThiagoNicolasMalheiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoNicolasMalheiros&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoNicolasMalheiros&layout=compact&langs_count=7&theme=aura"/>
 </div>
