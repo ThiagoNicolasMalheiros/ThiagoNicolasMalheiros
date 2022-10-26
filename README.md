@@ -2,7 +2,7 @@
 
 -💻 Atualmente sou estagiário na Requestia Software<br/>
 -📝 Estou cursando o último semestre de Desenvolvimento de Sistemas na ETEC de Hortolândia<br/>
--📚 Estou me aprofundando em Front-End<br/>
+-📚 Estou me aprofundando em Front-End com estudos através do curso da OneBitCode e da Udemy<br/>
 
 <div align="left">
   <a href="https://github.com/ThiagoNicolasMalheiros">
